@@ -41,11 +41,11 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 <!doctype html>
 <html>
     <head>
-        <title>Kripal Sample Web project</title>
-    </head>
+        <title>AKASH Sample Web project</title>
+    <ss/head>
     <body>
         <font>
-            <center><font color="blue" face="arial" size="100">
+            <center><font color="blue" face="Century" size="100">
             <b>List of Protocol in TCP/IP Model</b>
             </font></center>
             <font color="red">
@@ -64,7 +64,7 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 
 ## OUTPUT:
-![output](<Screenshot 2025-09-04 101521.png>)
+![alt text](<Screenshot 2025-09-04 111113.png>)
 ![output](<Screenshot 2025-09-04 101558.png>)
 
 ## RESULT:

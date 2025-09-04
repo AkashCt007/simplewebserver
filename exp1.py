@@ -4,11 +4,11 @@ content = '''
 <!doctype html>
 <html>
     <head>
-        <title>Kripal Sample Web project</title>
-    </head>
+        <title>AKASH Sample Web project</title>
+    <ss/head>
     <body>
         <font>
-            <center><font color="blue" face="arial" size="100">
+            <center><font color="blue" face="Century" size="100">
             <b>List of Protocol in TCP/IP Model</b>
             </font></center>
             <font color="red">
